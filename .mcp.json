@@ -1,8 +1,3 @@
 {
-  "mcpServers": {
-    "ksp": {
-      "command": "uv",
-      "args": ["run", "--directory", "/Users/owl/development/ksp-mcp", "server.py"]
-    }
-  }
+  "mcpServers": {}
 }
