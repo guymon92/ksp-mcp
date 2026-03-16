@@ -1,0 +1,9 @@
+[project]
+name = "ksp-mcp"
+version = "0.1.0"
+description = "MCP server for searching products on KSP.co.il"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.26.0",
+]
