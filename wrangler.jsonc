@@ -1,5 +1,5 @@
 {
-  "name": "ksp-mcp",
+  "name": "israeli-retail-mcp",
   "main": "src/index.ts",
   "compatibility_date": "2025-04-01",
   "compatibility_flags": [
@@ -9,7 +9,7 @@
     "bindings": [
       {
         "name": "MCP_OBJECT",
-        "class_name": "KspMCP"
+        "class_name": "IsraeliRetailMCP"
       }
     ]
   },
@@ -17,7 +17,7 @@
     {
       "tag": "v1",
       "new_sqlite_classes": [
-        "KspMCP"
+        "IsraeliRetailMCP"
       ]
     }
   ],
